@@ -1,0 +1,16 @@
+1. Create a database named Company and create three tables in it with given attributes
+   Branches :
+   Branch ID: It should include unique and not null characters values with permissible length of three letters
+   Branch Name: It should include name of branch and should not have duplicate values
+
+   Departments:
+   Department ID : It should not have duplicate and null values with permissible letter 10
+   Department Name: It should include name of department and should not have duplicate values
+
+   Employees:
+   Employee ID : It should be a number and should not have null and duplicate entries.
+   Employee Name : It should not have null entries
+   Department ID : It is the deparment for which the employee is working
+   Branch ID: ID of employee's branch
+   Salary: It is salary of employee
+
