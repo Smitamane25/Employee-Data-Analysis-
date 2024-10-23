@@ -1,2 +1,2 @@
 # Employee-Data-Analysis-
-SQL Project
+SQL Project (intermediate Level)
